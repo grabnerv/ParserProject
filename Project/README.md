@@ -8,8 +8,13 @@ Environment reqs: Java compiler, antlr4, and (optionally) antlr4 GUI for viewing
 How to run: There are 3 basic commands to run our parser.
 
 % antlr4 Deliverable3.g4 
+
+
 % javac *.java 
+
+
 % grun Deliverable3 start -gui ./project_deliverable_3.py
+
 // replace ./project_deliverable_3.py with your desired input file.
 
 
